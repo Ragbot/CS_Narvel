@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "niLbJqS7lez/VFzr0BUj12B64ECuHsEfX2gmMkotXYLCZidqQJdTT56xSrzXh18SmJVhN57tPxYmxvM9eFl/lQ==",
+  "dgSpecHash": "FQiYLjRSTs4QVFwrcNaVaWT6baJsH8v1fpTrEAUhxd8UMwYEb4WBJCs5ADos4ehRHvDwKlQoFJzHSGvzDyrqGg==",
   "success": true,
   "projectFilePath": "C:\\Users\\shale\\Documents\\GitHub\\CS_Narvel\\CS_Narvel\\CS_Narvel.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\shale\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\shale\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\shale\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\shale\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\shale\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\shale\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
